@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2023-06-24T23:24:05.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="y8_mmcuhodkxpysyPO1k" version="21.5.0" type="github">
+  <diagram name="Page-1" id="x0CMTlLCIdHrDQVAaXd4">
+    <mxGraphModel dx="850" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-1" value="Start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;strokeWidth=2;fontSize=22;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="312.88" y="95" width="160.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-3" value="Init Sum = 0" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="313.5" y="215" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-6" value="End" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;strokeWidth=2;fontSize=22;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="313.51" y="995" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-7" value="User didn&#39;t input 0&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;fontSize=16;spacingRight=50;spacingLeft=50;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="293.94" y="665" width="199.13" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-8" value="PRINT &quot; Input a number or type 0 to get the sum of squares&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;spacing=5;spacingRight=40;spacingLeft=40;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739E;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="253" y="335" width="281" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-9" value="GET the number from user" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;spacing=5;spacingRight=50;spacingLeft=50;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739E;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="253" y="455" width="281" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392.4" y="295" as="sourcePoint" />
+            <mxPoint x="392.4" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392.4" y="175" as="sourcePoint" />
+            <mxPoint x="392.4" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392.37" y="415" as="sourcePoint" />
+            <mxPoint x="392.37" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392.4" y="525" as="sourcePoint" />
+            <mxPoint x="392.4" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392.37" y="630" as="sourcePoint" />
+            <mxPoint x="392.37" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ibbXePZIc7jMc6qT58Fc-7" target="ibbXePZIc7jMc6qT58Fc-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473.5" y="844" as="sourcePoint" />
+            <mxPoint x="473.38000000000005" y="175.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="574.44" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-38" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="473.5" y="705" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-39" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="293.94" y="825" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-40" value="PRINT &quot;the Sum of Squares is: Sum&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;spacing=5;spacingRight=50;spacingLeft=50;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="253" y="875" width="281" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-41" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="393.94" y="825" as="sourcePoint" />
+            <mxPoint x="393.94" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-42" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="393.94" y="945" as="sourcePoint" />
+            <mxPoint x="393.94" y="995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ibbXePZIc7jMc6qT58Fc-43" value="CALCULATE the number of squares" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#A680B8;strokeWidth=2;fontSize=16;fontStyle=1;spacingRight=50;spacingLeft=50;" parent="1" vertex="1">
+          <mxGeometry x="253" y="565" width="280" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
