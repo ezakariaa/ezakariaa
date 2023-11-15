@@ -7,6 +7,6 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,bash,c,css,emacs,figma,git,github,heroku,html,ps,powershell,r,vim,visualstudio,vscode,wordpress&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,bash,c,codepen,css,devto,discord,emacs,figma,git,github,heroku,html,linux,mysql,php,powershell,ps,r,raspberrypi,vim,visualstudio,vscode,wordpress&theme=light)](https://skillicons.dev)
 
 
