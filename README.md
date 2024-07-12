@@ -11,4 +11,4 @@
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,apple,azure,bash,c,codepen,c,cs,cpp,codepen,css,debian,devto,discord,emacs,figma,git,github,grafana,heroku,html,htmx,instagram,kali,linux,mysql,php,powershell,ps,py,r,raspberrypi,redhat,sublime,ubuntu,vim,visualstudio,vscode,windows,wordpress&theme=light)](https://skillicons.dev)
 
 ## What I listen to now:
-[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=anhu213hdp1zgt19mp21c4ypk&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=anhu213hdp1zgt19mp21c4ypk&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=anhu213hdp1zgt19mp21c4ypk&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=anhu213hdp1zgt19mp21c4ypk&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
