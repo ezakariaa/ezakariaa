@@ -8,4 +8,4 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,androidstudio,apple,azure,bash,bootstrap,bots,c,codepen,c,cs,cpp,codepen,css,debian,devto,discord,docker,emacs,figma,git,github,grafana,heroku,html,htmx,instagram,js,kali,linux,mysql,nodejs,npm,php,postman,powershell,ps,py,r,raspberrypi,react,redhat,sublime,ts,ubuntu,vim,visualstudio,vscode,windows,wordpress&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,androidstudio,apple,azure,bash,bootstrap,bots,c,codepen,c,cs,cpp,codepen,css,debian,devto,discord,docker,emacs,figma,firebase,git,github,githubactions,grafana,heroku,html,htmx,instagram,js,kali,linux,mysql,nodejs,npm,php,postman,powershell,ps,py,r,raspberrypi,react,redhat,sublime,ts,ubuntu,vim,visualstudio,vscode,windows,wordpress&theme=light)](https://skillicons.dev)
