@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,androidstudio,apple,azure,bash,bootstrap,bots,c,codepen,c,cs,cpp,codepen,css,debian,devto,discord,docker,emacs,figma,firebase,git,github,githubactions,grafana,heroku,html,htmx,instagram,js,kali,linux,mysql,nodejs,npm,php,postman,powershell,ps,py,r,raspberrypi,react,redhat,sublime,ts,ubuntu,vim,visualstudio,vscode,windows,wordpress&theme=light)](https://skillicons.dev)
 
-## 🎧 Z Radio – Mon lecteur musical
+## 🎧 Z Radio – Écoute en direct
 
-![Z Radio Preview](./radio_preview.png)  
-[▶️ Écouter en direct](https://zradio.ddns.net:8443/stream)
+🎶 Radio musicale 24/7 : Hits & Classics
+📻 [Lancer la radio](https://ezakariaa.github.io/ZRadio/)
